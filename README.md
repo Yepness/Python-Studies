@@ -2,6 +2,7 @@
 Repository for the study of optional Python projects.
 
 Project Description 01:
+
 Desenvolvimento de um programa que leia um número inteiro da entrada. Esse número representa o ano de nascimento de uma pessoa. Assumindo que estamos em 2022 e o aniversário da pessoa já passou, escreva uma frase como a seguinte na saída (não vamos usar acentos):
 
 Voce tem X anos e, portanto, e Y.
@@ -19,6 +20,7 @@ Se o valor lido for 1900, deve-se escrever "Voce tem 122 anos e, portanto, e exp
 //========================================================================================================
 
 Project Description 02:
+
 Desenvolvimento de um programa que leia uma string da entrada e escreva na saída uma das opções abaixo:
 Se a string representa um número inteiro, escreva o fatorial desse número na saída;
 Se a string for "ufabc", escreva "minha universidade" na saída;
@@ -30,7 +32,9 @@ Para entrada "ufabc", a saída deve ser "minha universidade"
 Para entrada "BCC", a saída deve ser "BCC"
 
 //========================================================================================================
+
 Project Description 03:
+
 Desenvolvimento de um programa que leia os seguintes dados da entrada:
 Uma cadeia de caracteres F;
 Um número decimal A representando o início de uma sequência;
